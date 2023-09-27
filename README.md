@@ -10,4 +10,5 @@
 <h3>I am fetching weather data from openWeatherApi with the help of an Api key.</h3>
 
 <h3>Hosted link</h3>
+https://weather-app-js-prabhat.netlify.app/
 
