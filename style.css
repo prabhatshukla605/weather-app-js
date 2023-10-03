@@ -8,16 +8,14 @@
 }
 
 body {
-  background: #373b44;
-  background: -webkit-linear-gradient(to right, #4286f4, #373b44);
-  background: linear-gradient(to right, #4286f4, #373b44);
+  background: #add8e6;
   padding: 12px;
 }
 
 .card {
   max-width: 500px;
   margin: 100px auto 0;
-  background-image: linear-gradient(19deg, #21d4fd 0%, #b721ff 100%);
+  background-image: linear-gradient(to right, #00b4db, #0083b0);
 
   /* background-image: linear-gradient(to right, #00b4db, #0083b0); */
   padding: 40px 20px;
