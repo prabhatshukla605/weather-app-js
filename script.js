@@ -46,6 +46,7 @@ const searchWeather = async (value = "") => {
       }&appid=${API_KEY}&units=metric`
     );
     const data = await res.json();
+    console.log(data);
     if (data?.cod === "404") {
       frame.classList.remove('hide');
     } else {
